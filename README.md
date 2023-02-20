@@ -2,7 +2,7 @@
 This is a script to install bug hunting tools in kali linux all at once
 
 
-#Categorized the list of tools
+# Categorized the list of tools
 Subdomain Enum tools - amass,subfinder,assetfinder,subdomainizer,sublister,findomain....
 Subdomain Takeover - subover,autosubtakeover,tko-subs,subjack....
 Cloud Workflow - aws_recon,festin,lazys3,s3brute,flumberboozle,slurp....
@@ -18,7 +18,7 @@ Port Scanning - nmap,masscan,naabu,brutespray...
 Wordlists - commonspeak2,payloadallthings,seclists...
 
 
-#Installation
+# Installation
 git clone https://github.com/Sahil-AR/bbhtv2
 cd BBHTv2
 chmod +x bbhtv2.sh
